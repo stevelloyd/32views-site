@@ -24,3 +24,79 @@ article img {
   max-width: 100%;
   height: auto;
 }
+
+@font-face {
+    font-family: "CooperHewitt-Book";
+    src: url(/fonts/CooperHewitt-Book.woff) format('woff');
+}
+
+@font-face {
+    font-family: "CooperHewitt-Bold";
+    src: url(/fonts/CooperHewitt-Bold.woff) format('woff');
+}
+
+@font-face {
+    font-family: "CooperHewitt-Medium";
+    src: url(/fonts/CooperHewitt-Medium.woff) format('woff');
+}
+
+@font-face {
+    font-family: "CooperHewitt-BookItalic";
+    src: url(/fonts/CooperHewitt-BookItalic.woff) format('woff');
+}
+
+html, * {
+    font-family: "CooperHewitt-Book", sans-serif;
+
+    color: #545454;
+    text-rendering: optimizeLegibility;
+}
+
+h1 {
+    font-family: "CooperHewitt-Medium", sans-serif;
+    color: #333;
+    font-size: 1.6em;
+    line-height: 1.3em;
+    margin-bottom: .78571em
+}
+
+h2 {
+    font-family: "CooperHewitt-Medium", sans-serif;
+    color: #333;
+    font-size: 1.3em;
+    line-height: 1em;
+    margin-bottom: .62857em
+}
+
+h3 {
+    font-family: "CooperHewitt-Medium", sans-serif;
+    color: #333;
+    font-size: 1.15em;
+    line-height: 1em;
+    margin-bottom: .47143em
+}
+
+strong {
+    font-family: "CooperHewitt-Bold", sans-serif;
+}
+
+em {
+    font-family: "CooperHewitt-BookItalic", sans-serif;
+}
+
+ul.pagination {
+    list-style-type: none;
+}
+
+p.date-and-tags {
+    font-size: 0.875rem;
+    margin-left: 1rem;
+    margin-top: 0em;
+}
+
+p.copyright {
+    font-size: 0.875rem;
+}
+article h2 {
+    margin-bottom: 0;
+}
