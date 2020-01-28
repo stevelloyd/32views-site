@@ -7,7 +7,8 @@
   (-> any)
   (current-scheme/host "https://32views.net")
   (current-title "32 views")
-  (current-author "Stephen Lloyd"))
+  (current-author "steve@kinoteki.com (Steve Lloyd")
+  )
 
 ;; Called once per post and non-post page, on the contents.
 (define/contract (enhance-body xs)
