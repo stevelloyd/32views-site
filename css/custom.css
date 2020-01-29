@@ -45,6 +45,17 @@ article img {
     src: url(/fonts/CooperHewitt-BookItalic.woff) format('woff');
 }
 
+@font-face {
+    font-family: "JetBrainsMono-Medium";
+    src: url(/fonts/JetBrainsMono-Medium.woff) format('woff');
+}
+
+@font-face {
+    font-family: "JetBrainsMono-Regular";
+    src: url(/fonts/JetBrainsMono-Regular.woff) format('woff');
+}
+
+
 html, * {
     font-family: "CooperHewitt-Book", sans-serif;
 
@@ -99,4 +110,9 @@ p.copyright {
 }
 article h2 {
     margin-bottom: 0;
+}
+
+pre, .source {
+    font-family: "JetBrainsMono-Regular";
+    /* font-family: "JetBrainsMono-Medium", monospace, monospace; */
 }

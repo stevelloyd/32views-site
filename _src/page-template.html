@@ -54,7 +54,7 @@
 
             @(define (craft-tag-links listof-pairs)
               @(map (lambda (pair)
-                @list{<a class="dropdown-item" href="@(cdr pair)">@(car pair)</a>})
+                @list{<a class="nav" href="@(cdr pair)">@(car pair)</a>})
               listof-pairs))
 
 
@@ -75,8 +75,7 @@
         <!-- Main column -->
         <div class="col-md-2">
           <nav>
-            <a href="#">Home</a>
-            <a href="#">Chapters</a>
+            @craft-tag-links[(all-tag-pairs)]
           </nav>
         </div>
         <div id="content" class="col-md-10">
@@ -87,7 +86,14 @@
                                              "/index.html"))
             @list{
               <h1>Welcome to 32 views</h1>
-              <p>If you'd like to find out what this site is for, please look at <a href="@|uri-prefix|/about.html">about</a>.</p> })
+              <p>If you'd like to find out what this site is for, please look at <a href="@|uri-prefix|/about.html">about</a>.</p> 
+              <h2>Getting around</h2>
+              <p>On the left there is some navigation to display a type of content, for example the main information is posted as 
+                a series of 'chapters'.
+              </p>
+              <hr/>
+            
+            })
           @;{ Index pages for posts have @tag that's not #f }
           @(when tag
             @list{<h1>Posts tagged <em>@|tag|</em></h1>})

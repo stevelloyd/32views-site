@@ -5,7 +5,7 @@
 ;; in frog/params.
 (define/contract (init)
   (-> any)
-  (current-scheme/host "https://32views.net")
+  (current-scheme/host "http://seto.local")
   (current-title "32 views")
   (current-author "steve@kinoteki.com (Steve Lloyd")
   )
@@ -17,8 +17,8 @@
   (~> xs
       (syntax-highlight #:python-executable (if (eq? (system-type) 'windows)
                                                 "python.exe"
-                                                "python")
-                        #:line-numbers? #t
+                                                "python3")
+                        #:line-numbers? #f
                         #:css-class "source")
       (auto-embed-tweets #:parents? #t)
       (add-racket-doc-links #:code? #t #:prose? #f)))
