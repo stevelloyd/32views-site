@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
  <title type="text">32 views: 32 views</title>
- <link rel="self" href="http://seto.local/feeds/all.atom.xml" />
- <link href="http://seto.local/index.html" />
- <id>urn:http-seto-local:-index-html</id>
+ <link rel="self" href="https://notes.32views.net/feeds/all.atom.xml" />
+ <link href="https://notes.32views.net/index.html" />
+ <id>urn:https-notes-32views-net:-index-html</id>
  <updated>2020-04-12T15:07:22Z</updated>
  <entry>
   <title type="text">What happened</title>
-  <link rel="alternate" href="http://seto.local/2020/04/what-happened.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-seto-local:-2020-04-what-happened-html</id>
+  <link rel="alternate" href="https://notes.32views.net/2020/04/what-happened.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:https-notes-32views-net:-2020-04-what-happened-html</id>
   <published>2020-04-12T15:07:22Z</published>
   <updated>2020-04-12T15:07:22Z</updated>
   <author>
    <name>steve@kinoteki.com (Steve Lloyd</name></author>
   <content type="html">
-&lt;p&gt;I originally launched this project over a year ago, and hoped to be well underway by now, but sometimes &amp;lsquo;best laid plans&amp;rsquo;&amp;hellip;&lt;/p&gt;&lt;a href="http://seto.local/2020/04/what-happened.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
+&lt;p&gt;I originally launched this project over a year ago, and hoped to be well underway by now, but sometimes &amp;lsquo;best laid plans&amp;rsquo;&amp;hellip;&lt;/p&gt;&lt;a href="https://notes.32views.net/2020/04/what-happened.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
