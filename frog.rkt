@@ -5,7 +5,7 @@
 ;; in frog/params.
 (define/contract (init)
   (-> any)
-  (current-scheme/host "http://seto.local")
+  (current-scheme/host "https://notes.32views.net")
   (current-title "32 views")
   (current-author "steve@kinoteki.com (Steve Lloyd")
   )
