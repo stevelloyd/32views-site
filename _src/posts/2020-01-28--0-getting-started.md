@@ -1,6 +1,6 @@
     Title: (0---Getting started)
     Date: 2020-01-28T20:15:55
-    Tags: chapters
+    Tags: chapters, DRAFT
 
 ## Getting started...setting up your Pi and installing Racket
 
