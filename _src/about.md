@@ -26,13 +26,13 @@ I’ve co-opted Hokusai-sensei’s publishing idea–hence 32 views of computing
 
 ## Why Racket?
 
-The Raspberry Pi is powerful enough to support seriously capable programming tools–Python is rightly of course incredibly popular, but is only one of many systems which can be used on it; all available for the price of a couple of minutes of your time installing them.
+The Raspberry Pi is powerful enough to support seriously capable programming tools---Python is rightly of course incredibly popular, but is only one of many systems which can be used on it; all available for the price of a couple of minutes of your time installing them.
 
-If programming languages are the computing equivalent of a Swiss Army Knife (™ Victorinox AG), Racket is like having a Swiss Army Knife factory. Experiencing it is well worth your time and effort, even (especially) if you plan to use other languages mostly.
+If programming languages are the computing equivalent of a Swiss Army Knife (™ Victorinox AG), Racket is like having a Swiss Army Knife factory. Experiencing it is well worth your time and effort, even (especially) if you plan to use other languages mostly. Though I hope at the end of this, you'll want to keep it on your toolbelt.
 
 ## Why the Raspberry Pi?
 
-Since it was released in 2012, the Pi (we’ll call it that from now on) has created one of the most vibrant maker communities around, so there’s plenty of support available. There is a huge market of add-ons for it (some of which we’ll be using in our projects) and it provides just the right amount of power, for just the right amount of money. And once you’ve worked through these projects, you can re-purpose your Pi as an internet radio, a robot, a Homekit accessory or any one of a myriad of projects (see issues of [MagPi](https://www.raspberrypi.org/magpi/) magazine for ideas).
+Since it was released in 2012, the Pi---(we’ll call it that from now on) has created one of the most vibrant maker communities around, so there’s plenty of support available. There is a huge market of add-ons for it (some of which we’ll be using in our projects), and it provides just the right amount of power, for just the right amount of money. And once you’ve worked through these projects, you can re-purpose your Pi as an internet radio, a robot, a Homekit accessory, or any one of a myriad of projects (see issues of [MagPi](https://www.raspberrypi.org/magpi/) magazine for ideas). Or indeed, a perfectly capable desktop computer (the latest version will happily drive two 4K monitors)!
 
 
 

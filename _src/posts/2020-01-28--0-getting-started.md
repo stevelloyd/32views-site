@@ -17,7 +17,7 @@ You'll need to buy or borrow:
 
 ### Which model of Pi?
 
-Currently the latest Pi is the 4 model B availabile with 1/2/4GB of RAM. Ideally, the 2 or 4GB model of this is perfect for these projects. Alternatively the earlier 3 B+. The Pi Zero models *can* run Racket, but are best suited when you come to embed some intelligence in a finished project rather than for learning and development. 
+Currently the latest Pi is the 4 model B availabile with 2 or GB of RAM. Either of these is perfect for these projects. Alternatively the earlier 3 B+ model is fine, with a loss in speed over the new model. The Pi Zero models *can* run Racket, but are best suited when you come to embed some intelligence in a finished project rather than for learning and development. 
 
 For a Pi 4 model B, it's worth also adding a heatsink for the processor; but bear in mind that we want to wire up our Pi to the external world so heatsink cases which restrict access to the GPIO[^GPIO] aren't so useful.
 
