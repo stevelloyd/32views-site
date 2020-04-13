@@ -34,6 +34,8 @@ If programming languages are the computing equivalent of a Swiss Army Knife (™
 
 Since it was released in 2012, the Pi---(we’ll call it that from now on) has created one of the most vibrant maker communities around, so there’s plenty of support available. There is a huge market of add-ons for it (some of which we’ll be using in our projects), and it provides just the right amount of power, for just the right amount of money. And once you’ve worked through these projects, you can re-purpose your Pi as an internet radio, a robot, a Homekit accessory, or any one of a myriad of projects (see issues of [MagPi](https://www.raspberrypi.org/magpi/) magazine for ideas). Or indeed, a perfectly capable desktop computer (the latest version will happily drive two 4K monitors)!
 
+![A painter's palette from Obuse, Hokusai's home, Japan](img/about-palette-obuse.png)
+
 
 
 
