@@ -6,7 +6,7 @@ So, you’re looking at something called 32 views of computing—with Racket and
 
 ## What is 32 views…?
 
-It’s a series of projects, in which we’ll learn together about how to use a programming language called Racket, running on the small, affordable Raspberry Pi computer. [^pi]
+It’s a series of projects, in which we’ll learn together using a programming language called Racket, running on the small, affordable Raspberry Pi computer. [^pi]
 
 [^pi]: Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 

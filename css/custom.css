@@ -97,6 +97,7 @@ em {
 
 ul.pagination {
     list-style-type: none;
+    display: inline;
 }
 
 p.date-and-tags {
