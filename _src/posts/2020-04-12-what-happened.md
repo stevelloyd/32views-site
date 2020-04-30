@@ -2,7 +2,9 @@
     Date: 2020-04-12T16:07:22
     Tags: news
 
-I originally launched this project over a year ago, and hoped to be well underway by now, but sometimes 'best laid plans'...
+I originally launched this project over a year ago, and hoped to be well underway by now, but sometimes 
+
+<blockquote cite="(with apologies to) Robert Burns">best laid Schemes...</blockquote>
 
 <!-- more -->
 

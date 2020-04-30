@@ -4,7 +4,7 @@
 
 ## Getting started...setting up your Pi and installing Racket
 
-This first chapter will get us to the stage of having a Pi, running Racket and having a look at what a program looks like in Racket. The dynamic market in Pi accessories mean that there are a multitude of varieties of the components needed, and multiple stockists of particular models. 
+This first chapter will get us to the stage of having a Pi, running Racket and having a look at what a program looks like in Racket.  
 <!-- more -->
 
 The best resource on setting up a Pi system is, understandably on the [Raspberry Pi website](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up), so refer to this after scanning the following info.
@@ -19,6 +19,8 @@ You'll need to buy or borrow:
 * monitor or TV with a cable to connect to the Pi
 * keyboard and mouse
 * an SD card with the latest Raspbian release
+
+The dynamic market in Pi accessories mean that there are a multitude of manufacturers of the components needed, and multiple stockists of particular models.
 
 ### Which model of Pi?
 
@@ -52,7 +54,6 @@ The Raspberry Pi setup page talks through the creation of an SD card (pick a 16G
 [^GPIO]: The set of pins which allow connecting your Pi to the outside world.
 
 [^HAT]: Boards (**H**ardware **A**ttached on **T**op) which can be attached to the Pi to provide extra facilities---displays, sensors etc.
-
 
 
 
